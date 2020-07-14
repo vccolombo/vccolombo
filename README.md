@@ -21,12 +21,11 @@ I'm currently a Computer Engineering student at the Federal University of São C
 
 ## What I Love:
 
-- My nose (it's perfect)
-- My name (it has an accent in V**í**ctor)
 - Python :snake:
 - [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) :musical_note:
 - Airplanes :airplane:
 - General Kenobi
+- Cybersecurity (just started learning)
 
 ## Fun facts:
 - ⚡ I gave a lightning talk about my name (and how you should expect that users will input non-ASCII characters in your application) at Python Brasil 2019
