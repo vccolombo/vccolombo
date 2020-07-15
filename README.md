@@ -29,7 +29,7 @@ I'm currently a Computer Engineering student at the Federal University of São C
 - Airplanes :airplane:
 - [Enter the Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon)
 - [Football Manager](https://www.footballmanager.com/)
-- Learn new things
+- Learning new things
 
 ## Fun facts:
 - ⚡ I gave a lightning talk about my name (and how you should expect that users will input non-ASCII characters in your application) at Python Brasil 2019
