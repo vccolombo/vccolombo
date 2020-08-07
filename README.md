@@ -27,7 +27,7 @@
 
 - **I already used, but I'm not very proeficient with**: Scala, Android, HTML/CSS, AWS
 
-## What I'm (trying to) learning:
+## What I'm (trying) learning:
 
 - :cloud: Cloud computing
 - :microscope: Data science
