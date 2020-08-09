@@ -34,6 +34,7 @@
 - :closed_lock_with_key: Cybersecurity
 - ![Golang logo](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go/go_24x24.png) Golang
 - ![PHP logo](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php_24x24.png) PHP
+- ![TypeScript logo](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_24x24.png) TypeScript
 
 ### Fun fact:
 - ⚡ I gave a lightning talk about my name (and how you should expect that users will input non-ASCII characters in your application) at Python Brasil 2019
