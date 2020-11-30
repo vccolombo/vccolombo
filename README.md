@@ -2,7 +2,7 @@
 
 ### I'm currently a Computer Engineering student at the Federal University of São Carlos, Brazil.
 
-[Check my webpage](https://vccolombo.github.io) to read about my projects and posts I made about programming.
+[Check my website](https://vccolombo.github.io) to read about my projects and posts I made about programming.
 
 ## What I Love:
 
