@@ -2,35 +2,38 @@
 
 ### I'm currently a Computer Engineering student at the Federal University of São Carlos, Brazil.
 
-[Check my website](https://vccolombo.github.io) to read about my projects and posts I made about programming.
-
-## What I Love:
-
-- Python ![Python logo](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_24x24.png)
-- [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) :musical_note:
-- Airplanes :airplane:
-- [Enter the Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon), [Football Manager](https://www.footballmanager.com/) and [a lot of other games](https://steamcommunity.com/id/vccolombo/)
-- Learning new things
+[Check my website](https://vccolombo.github.io) to read about me, my projects and posts I make about programming.
 
 ## Personal projects I'm proud of:
 
 - [Free Games Newsletter](https://www.freegamesnewsletter.tech/): A newsletter that sends an email to the subscribers when a game is free on Steam. Read more about it [here](https://vccolombo.github.io/projects/freegamesnewsletter/).
 
-## What (I think) I know:
+## My 2021 Resolutions:
 
-- **Programing Languages:** Python, C/C++, Java, JavaScript, TypeScript, Scala
-- **Databases:** SQL, MongoDB
-- **Others:** Linux, Git, Docker, Android dev
+### General:
 
-<br>
+- Make something that I would be proud to add to the "Personal projects I'm proud of" section.
+- Decide what to do for my Undergraduate Thesis (and actually start doing it)
 
-- **I already used, but I'm not very proeficient with**: Kotlin, HTML/CSS, AWS
+### Cybersecurity:
+- Participate in at least 30 Capture The Flag competitions
+    - Milestones:
+        1. 5 CTFs
+        2. 10 CTFs
+        3. 20 CTFs
+        4. 30 CTFs
+- Read [all 27 cybersecurity books](2021/books.md) I bought from Humble Bundle
+    - Milestones:
+        1. 1 Book
+        2. 5 Books
+        3. 15 Books
+        4. 27 Books
+        5. Make a review of each of them and post on my website
 
-## What I'm (trying) learning:
+### Data Science:
 
-- :cloud: Cloud computing
-- :microscope: Data science
-- :closed_lock_with_key: Cybersecurity
-
-### Fun fact:
-- ⚡ I gave a lightning talk about my name (and how you should expect that users will input non-ASCII characters in your application) at Python Brasil 2019
+- Make the projects I wanted to do but never started:
+    - Recommendation system
+    - Something related to cybersecurity
+    - Hacktoberfest
+    - Who knows what else?

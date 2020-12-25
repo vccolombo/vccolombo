@@ -1,0 +1,27 @@
+- The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers
+- The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
+- Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation
+- Black Hat Go: Go Programming for Hackers and Pentesters
+- Car Hacker's Handbook: A Guide for the Penetration Tester
+- Foundations of Information Security
+- Hacking: The Art of Exploitation
+- The Hardware Hacker: Adventures in Making and Breaking Hardware
+- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
+- The Linux Command Line: A Complete Introduction
+- Malware Analyst's Cookbook: Tools and Techniques for Fighting Malicious Code
+- Malware Data Science: Attack Detection and Attribution
+- Metasploit: The Penetration Tester's Guide
+- Penetration Testing: A Hands-On Introduction to Hacking
+- Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly
+- Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software
+- The Hands-On Guide to Dissecting Malicious Software: Using Wireshark to Solve Real-World Network Problems
+- Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
+- Real-World Bug Hunting: A Field Guide to Web Hacking
+- Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats
+- Secrets and Lies: Digital Security in a Networked World
+- Serious Cryptography: A Practical Introduction to Modern Encryption
+- The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition
+- Threat Modeling: Designing for Security
+- We Have Root: Even More Advice from Schneier on Security
+- Unauthorised Access: Physical Penetration Testing For IT Security Teams
+- Web Security for Developers
