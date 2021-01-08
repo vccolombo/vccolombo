@@ -3,7 +3,7 @@
 - Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation
 - Black Hat Go: Go Programming for Hackers and Pentesters
 - Car Hacker's Handbook: A Guide for the Penetration Tester
-- Foundations of Information Security
+- ~~Foundations of Information Security~~ - **Finished January 7**.
 - Hacking: The Art of Exploitation
 - The Hardware Hacker: Adventures in Making and Breaking Hardware
 - Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali

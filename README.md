@@ -16,24 +16,24 @@
 - Decide what to do for my Undergraduate Thesis (and actually start doing it)
 
 ### Cybersecurity:
+
 - Participate in at least 30 Capture The Flag competitions
-    - Milestones:
-        1. 5 CTFs
-        2. 10 CTFs
-        3. 20 CTFs
-        4. 30 CTFs
+  - Milestones:
+    1. 5 CTFs
+    2. 10 CTFs
+    3. 20 CTFs
+    4. 30 CTFs
 - Read [all 27 cybersecurity books](2021/books.md) I bought from Humble Bundle
-    - Milestones:
-        1. 1 Book
-        2. 5 Books
-        3. 15 Books
-        4. 27 Books
-        5. Make a review of each of them and post on my website
+  - Milestones:
+    1. ~~1 Book~~ - **Completed January 7**
+    2. 5 Books
+    3. 15 Books
+    4. 27 Books
 
 ### Data Science:
 
 - Make the projects I wanted to do but never started:
-    - Recommendation system
-    - Something related to cybersecurity
-    - Hacktoberfest
-    - Who knows what else?
+  - Recommendation system
+  - Something related to cybersecurity
+  - Hacktoberfest
+  - Who knows what else?
