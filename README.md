@@ -17,9 +17,9 @@
 
 ### Cybersecurity:
 
-- Participate in at least 30 Capture The Flag competitions
+- Participate in at least [30 Capture The Flag competitions](2021/ctfs.md)
   - Milestones:
-    1. 5 CTFs
+    1. ~~5 CTFs~~ - **Completed January 31**
     2. 10 CTFs
     3. 20 CTFs
     4. 30 CTFs
