@@ -3,7 +3,7 @@
 - Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation
 - Black Hat Go: Go Programming for Hackers and Pentesters
 - Car Hacker's Handbook: A Guide for the Penetration Tester
-- ~~Foundations of Information Security~~ - **Finished January 7**.
+- ~~Foundations of Information Security~~ - **Finished January 7th**.
 - Hacking: The Art of Exploitation
 - The Hardware Hacker: Adventures in Making and Breaking Hardware
 - Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
@@ -21,7 +21,7 @@
 - Secrets and Lies: Digital Security in a Networked World
 - Serious Cryptography: A Practical Introduction to Modern Encryption
 - The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition
-- Threat Modeling: Designing for Security
+- ~~Threat Modeling: Designing for Security~~ - **Finished February 2nd**
 - We Have Root: Even More Advice from Schneier on Security
 - Unauthorised Access: Physical Penetration Testing For IT Security Teams
 - Web Security for Developers
