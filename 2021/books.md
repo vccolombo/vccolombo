@@ -6,7 +6,7 @@
 - ~~Foundations of Information Security~~ - **Finished January 7th**.
 - Hacking: The Art of Exploitation
 - The Hardware Hacker: Adventures in Making and Breaking Hardware
-- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
+- ~~Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali~~ - **Finished February 9th**
 - The Linux Command Line: A Complete Introduction
 - Malware Analyst's Cookbook: Tools and Techniques for Fighting Malicious Code
 - Malware Data Science: Attack Detection and Attribution
