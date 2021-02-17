@@ -13,7 +13,7 @@
 - Metasploit: The Penetration Tester's Guide
 - Penetration Testing: A Hands-On Introduction to Hacking
 - Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly
-- Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software
+- ~~Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software~~ - **Finished February 17th**
 - The Hands-On Guide to Dissecting Malicious Software: Using Wireshark to Solve Real-World Network Problems
 - Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
 - Real-World Bug Hunting: A Field Guide to Web Hacking
