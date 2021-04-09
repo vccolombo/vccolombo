@@ -7,7 +7,7 @@
 - Computer Engineering student at Federal University of São Carlos. Expected to graduate in December 2022.
 - Passionate about cybersecurity, Python and learning new things.
 
-## `~ ls -l Projects`
+## `~ ls Projects`
 
 ### [Free Games Newsletter](https://www.freegamesnewsletter.tech/)
 
