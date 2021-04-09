@@ -9,7 +9,7 @@
 
 ## `~ ls Projects`
 
-### [Free Games Newsletter](https://www.freegamesnewsletter.tech/)
+### [Free Games Newsletter](https://www.freegamesnewsletter.com/)
 
 A newsletter that sends an email to the subscribers when a game is free on Steam. Read more about it [here](https://vccolombo.github.io/projects/freegamesnewsletter/).
 
