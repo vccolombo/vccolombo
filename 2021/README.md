@@ -9,13 +9,13 @@
 
 - Participate in at least [30 Capture The Flag competitions](ctfs.md)
   - Milestones:
-    1. ~~5 CTFs~~ - **Completed January 31**
-    2. 10 CTFs
+    1. ~~5 CTFs~~ - **Completed January 31st**
+    2. ~~10 CTFs~~ - **Completed April 14th**
     3. 20 CTFs
     4. 30 CTFs
 - Read [all 27 cybersecurity books](books.md) I bought from Humble Bundle
   - Milestones:
-    1. ~~1 Book~~ - **Completed January 7**
+    1. ~~1 Book~~ - **Completed January 7th**
     2. 5 Books
     3. 15 Books
     4. 27 Books
